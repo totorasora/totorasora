@@ -1,4 +1,5 @@
 <h3 align="left">About me:</h3>
+
 - **San Francisco, CA**
 - **+1-415-837-8440**
 - **k.sr.lee@gmail.com**
