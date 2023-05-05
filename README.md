@@ -1,4 +1,3 @@
-## About me:
 - San Francisco, CA
 - +1-415-837-8440
 - **k.sr.lee@gmail.com**
