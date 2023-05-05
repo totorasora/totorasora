@@ -1,6 +1,7 @@
 - San Francisco, CA
 - +1-415-837-8440
 - **k.sr.lee@gmail.com**
+[Portfolio](https://totorasora.github.io/Portfolio)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
