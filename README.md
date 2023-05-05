@@ -1,4 +1,7 @@
-### Hi there 👋
+## About me:
+- San Francisco, CA
+- +1-415-837-8440
+- **k.sr.lee@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
