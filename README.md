@@ -1,5 +1,5 @@
-- San Francisco, CA
-- +1-415-837-8440
+- **San Francisco, CA**
+- **+1-415-837-8440**
 - **k.sr.lee@gmail.com**
 - **[Portfolio](https://totorasora.github.io/Portfolio)**
 
