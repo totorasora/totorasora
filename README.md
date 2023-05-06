@@ -4,7 +4,7 @@
 - **+1-415-837-8440**
 - **k.sr.lee@gmail.com**
 - **[Portfolio Page](https://totorasora.github.io/Portfolio)**
-- <a href="https://linkedin.com/in/kristin-lee-9a8666265" target="_blank"><img align="center" src="https://kslportfolio.s3.us-west-1.amazonaws.com/linkedin-logo-linkedin-icon-transparent-free-png.webp" alt="" height="40" width="40" /></a>
+- <a href="https://linkedin.com/in/kristin-lee-9a8666265" target="_blank"><img align="center" src="https://kslportfolio.s3.us-west-1.amazonaws.com/linkedin-logo.png" alt="" height="20" width="20" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
