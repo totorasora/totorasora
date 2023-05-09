@@ -1,7 +1,7 @@
 <h3 align="left">Get in touch</h3>
 
 - **San Francisco, CA**
-- **+1-415-837-8440**
+- **+1 (415) 837-8440**
 - **k.sr.lee@gmail.com**
 - **[Portfolio Page](https://totorasora.github.io/Portfolio)**
 - <a href="https://linkedin.com/in/kristin-lee-9a8666265" target="_blank"><img align="center" src="https://kslportfolio.s3.us-west-1.amazonaws.com/linkedin-logo.png" alt="" height="20" width="20" /></a>
