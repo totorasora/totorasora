@@ -1,4 +1,4 @@
-<h3 align="left">About me:</h3>
+<h3 align="left">Get in touch</h3>
 
 - **San Francisco, CA**
 - **+1-415-837-8440**
